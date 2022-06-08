@@ -1,0 +1,15 @@
+execute in minecraft:the_nether positioned -48 128 16 run function practice:book
+execute in minecraft:the_nether positioned -48 128 32 run function practice:book
+execute in minecraft:the_nether positioned -48 128 48 run function practice:book
+execute in minecraft:the_nether positioned -48 128 64 run function practice:book
+execute in minecraft:the_nether positioned -64 128 64 run function practice:book
+execute in minecraft:the_nether positioned -64 128 48 run function practice:book
+execute in minecraft:the_nether positioned -80 128 64 run function practice:book
+execute in minecraft:the_nether positioned -64 128 80 run function practice:book
+execute in minecraft:the_nether positioned -80 128 80 run function practice:book
+execute in minecraft:the_nether positioned -96 128 80 run function practice:book
+execute in minecraft:the_nether positioned -112 128 80 run function practice:book
+execute in minecraft:the_nether positioned -128 128 80 run function practice:book
+execute in minecraft:the_nether positioned -128 128 96 run function practice:book
+execute in minecraft:the_nether positioned -144 128 96 run function practice:book
+execute in minecraft:the_nether positioned -144 128 80 run function practice:book
